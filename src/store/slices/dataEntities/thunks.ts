@@ -11,5 +11,3 @@ export const fetchDataEntities = createAsyncThunk<IDataEntity>(
     return response;
   }
 );
-
-export default {}; // TODO: Remove this line
